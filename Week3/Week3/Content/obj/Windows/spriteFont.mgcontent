@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/User1/Desktop/Week5/Week5/Week4/Week4/Week3/Week3/Content/spriteFont.spritefont</SourceFile>
+  <SourceTime>2016-03-30T01:36:08-04:00</SourceTime>
+  <DestFile>C:/Users/User1/Desktop/Week5/Week5/Week4/Week4/Week3/Week3/Content/bin/Windows/spriteFont.xnb</DestFile>
+  <DestTime>2017-04-05T23:10:09.7964657-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

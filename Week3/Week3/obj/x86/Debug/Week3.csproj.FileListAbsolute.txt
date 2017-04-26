@@ -1,0 +1,138 @@
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\obj\x86\Debug\Week3.csprojResolveAssemblyReference.cache
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\Content\enemy.xnb
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\Content\player.xnb
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\Week3.exe
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\Week3.pdb
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\obj\x86\Debug\Week3.exe
+c:\users\user1.qav-002991\documents\visual studio 2015\Projects\Week3\Week3\obj\x86\Debug\Week3.pdb
+C:\Users\Kevin\Desktop\Week3\Week3\obj\x86\Debug\Week3.exe
+C:\Users\Kevin\Desktop\Week3\Week3\obj\x86\Debug\Week3.pdb
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\Week3.exe
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\Week3.pdb
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Kevin\Desktop\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Kevin\Desktop\Week3\Week3\obj\x86\Debug\Week3.csprojResolveAssemblyReference.cache
+C:\Users\User1\Downloads\Week3\Week3\Week3\obj\x86\Debug\Week3.exe
+C:\Users\User1\Downloads\Week3\Week3\Week3\obj\x86\Debug\Week3.pdb
+C:\Users\User1\Downloads\Week3\Week3\Week3\obj\x86\Debug\Week3.csprojResolveAssemblyReference.cache
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\Week3.exe
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\Week3.pdb
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\User1\Downloads\Week3\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\obj\x86\Debug\Week3.exe
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\obj\x86\Debug\Week3.pdb
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Week3.exe
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Week3.pdb
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\obj\x86\Debug\Week3.csprojResolveAssemblyReference.cache
+C:\Users\User1\Downloads\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Content\spriteFont.xnb
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\obj\x86\Debug\Week3.exe
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\obj\x86\Debug\Week3.pdb
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Content\enemy.xnb
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Content\spriteFont.xnb
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Week3.exe
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Week3.pdb
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\obj\x86\Debug\Week3.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\Week5\Week5\Week4\Week4\Week3\Week3\bin\Windows\x86\Debug\Content\clash2.xnb
